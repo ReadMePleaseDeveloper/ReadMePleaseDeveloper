@@ -3,7 +3,11 @@
 ## If you are asked to develop surveillance software that appears unlawful, invasive, or intended to violate privacy rights, you should not proceed. Contact the Police.
 
 ### Call Police: 112 or 101 for Local Police
+### Report Cyber Crime: cybercrime@politiaromana.ro
 ### Report Data Protection Breach: icocasework@ico.org.uk
+### Romanian Police: cpdcp@politiaromana.ro
+### Scotland Police: dataprotection@scotland.police.uk
+### Bitdefender: virus_submission@bitdefender.com
 
 ![](Docs/1d6c489d68b76111347467014ccb63f3.jpg)
 
