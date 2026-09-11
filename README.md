@@ -26,9 +26,48 @@ that your good intentions will protect you if something goes wrong.**
 ![](Docs/08698622766083beb2b022fad480e985.jpg)
 ![](Docs/f6c9c641c550bd447bfa8473de34c962.jpg)
 
+## Darie - Munro's Travel Resignation Timeline
+![](Docs/997728f045bdc6409a8f2eda81992e69.jpg)
+![](Docs/bd6b41d3a6af105d2cfb48c97edda34a.jpg)
+![](Docs/c80467f1aedafa40c893efae38681c91.jpg)
+![](Docs/0a9f1becc88336e6710818c9749c1259.jpg)
+
+## Git Log Evidence
+```json
+[{
+    hash:bdfe54e1cc3e6c724f2ae3e05571eed755c58f36,
+    author:Darie-Dragos Mitoiu,
+    email:darie.mitoiu@munrostravel.com,
+    date:2025-12-23T17:03:13Z,
+    message:Update Binaries
+},
+{
+    hash:bf58eb94537c3ba1d88b0dbf0f99b7b37ca11539,
+    author:Darie-Dragos Mitoiu,
+    email:darie.mitoiu@munrostravel.com,
+    date:2025-11-24T14:23:33Z,
+    message:Update MOM Agent Binaries
+},
+{
+  hash:8df51ec536ed968b54e0e034f9d224cf475b9b03,
+  author:Darie-Dragos Mitoiu,
+  email:darie.mitoiu@munrostravel.com,
+  date:2025-11-21T08:48:24Z,
+  message:Added MOM Guard Service Schedule
+},
+{
+  hash:23b1bebe90afd8f045130c726db61ecd861fa188,
+  author:Darie-Dragos Mitoiu,
+  email:darie.mitoiu@munrostravel.com,
+  date:2025-11-20T12:30:24Z,
+  message:Init
+}]
+```
+
 ## Safety Measures while you Work for Corporations
 
 * Save all emails and written instructions every day.
+* Do not leave your property in the office unattended, they will touch and steal your property.
 * Record audio every single day before you enter the office in case they will threaten you verbally.
 * Take pictures of processes that run on your machine, especially if your personal data is collected.
 * Do not be afraid to document them if they break the law, the price of not doing so, it will be higher for you.
@@ -41,6 +80,7 @@ that your good intentions will protect you if something goes wrong.**
 * You will be told that everything is transparent, believe me there is nothing transparent, you did not sign documents for it.
 * Treat corporate environments with zero trust and protect your own reputation.
 * Contact the police and your local information service about the ongoing data collection,
+* Expect phishing emails after you leave the company, report all of them to the police and antivirus vendors.
 * Do not trust them, listen to your instinct, deception will be used, at first they will behave like sheep and at the end like wolves.
 
 ## No System is Safe
