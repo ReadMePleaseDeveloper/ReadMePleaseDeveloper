@@ -22,6 +22,7 @@ that you personally manage. Document your work, keep clear records of decisions,
 that your good intentions will protect you if something goes wrong.**
 
 ![](Docs/7c7a1aaa8e255032401e720fccfb7c6f.png)
+![](Docs/c7acd225067b9d5866052b91270b41f4.png)
 ![](Docs/a9984621b60f886e23c74dfcf1f3e2fc.jpg)
 
 ![](Docs/08698622766083beb2b022fad480e985.jpg)
