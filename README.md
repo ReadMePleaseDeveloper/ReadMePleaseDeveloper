@@ -1,10 +1,11 @@
-# Darie - Employee Leave - Due to Surveillance Software
+# Darie - Employee Leave - Due to Surveillance Software <img align="right" src="https://komarev.com/ghpvc/?username=ReadMePleaseDeveloper&label=Warning&style=for-the-badge&color=blue" alt="Warning">
 
 ## If you are asked to develop surveillance software that appears unlawful, invasive, or intended to violate privacy rights, you should not proceed. Contact the Police.
 
 ### Call Police: 112 or 101 for Local Police
 ### Report ICO: https://www.ico.org.uk
 ### Report Cyber Crime: cybercrime@politiaromana.ro
+### Cyber Incidents: office@dnsc.ro
 ### Report Data Protection Breach: icocasework@ico.org.uk
 ### Romanian Police: cpdcp@politiaromana.ro
 ### Scotland Police: dataprotection@scotland.police.uk
