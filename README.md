@@ -5,7 +5,7 @@
 ### Call Police: 112 or 101 for Local Police
 ### Report ICO: https://www.ico.org.uk
 ### Report Cyber Crime: cybercrime@politiaromana.ro
-### Cyber Incidents: office@dnsc.ro
+### Report Cyber Incidents: office@dnsc.ro
 ### Report Data Protection Breach: icocasework@ico.org.uk
 ### Romanian Police: cpdcp@politiaromana.ro
 ### Scotland Police: dataprotection@scotland.police.uk
@@ -49,11 +49,32 @@ that your good intentions will protect you if something goes wrong.**
     message:Update Binaries
 },
 {
+    hash:3b431182bbe31472f2132109ab35edcb735c878f,
+    author:Darie-Dragos Mitoiu,
+    email:darie.mitoiu@munrostravel.com,
+    date:2025-12-17T14:39:40Z,
+    message:Added MOM Agent Session Logs Delete Service After 60 Days
+},
+{
     hash:bf58eb94537c3ba1d88b0dbf0f99b7b37ca11539,
     author:Darie-Dragos Mitoiu,
     email:darie.mitoiu@munrostravel.com,
     date:2025-11-24T14:23:33Z,
     message:Update MOM Agent Binaries
+},
+{
+    hash:27d954759fe3ebd2576a7e95f413e46dd7e076b6,
+    author:Darie-Dragos Mitoiu,
+    email:darie.mitoiu@munrostravel.com,
+    date:2025-11-21T10:23:08Z,
+    message:Update MOM Agent Session Logs Directory Config
+},
+{
+    hash:58e377038cb2781a416f91ca2fc702b056dd155b,
+    author:Darie-Dragos Mitoiu,
+    email:darie.mitoiu@munrostravel.com,
+    date:2025-11-21T09:02:39Z,
+    message:Update MOM Guard Service Installer
 },
 {
     hash:8df51ec536ed968b54e0e034f9d224cf475b9b03,
