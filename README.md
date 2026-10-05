@@ -39,6 +39,14 @@ that your good intentions will protect you if something goes wrong.**
 
 ![](Docs/2fd526c31c264aab9111ffe7cc8bac75.jpg)
 
+## M.O.M. Agent Project Features
+
+* Computer System Unauthorised Primary Screen Capture,
+* Unauthorised Mouse and Keyboard Activity Data Collection (every minute)
+* Internet Service Provider (ISP) (YOUR HOME ISP) Data Collection (every hour)
+* Personal Data Collection - First Name and Last Lame of Microsoft Account
+* Windows Service Persistence Scheduler - Preventing Termination of Agent (every 30 seconds)
+
 ## Git Log Evidence
 ```json
 [{
@@ -97,6 +105,7 @@ that your good intentions will protect you if something goes wrong.**
 * Save all emails and written instructions every day.
 * Do not leave your property in the office unattended, they will touch and steal your property.
 * Record audio every single day before you enter the office in case they will threaten you verbally.
+* Do not share any personal data about you or your family with them, they will try to profile you.
 * Take pictures of processes that run on your machine, especially if your personal data is collected.
 * Do not be afraid to document them if they break the law, the price of not doing so, it will be higher for you.
 * Link all work accounts to recovery options you control as they will remove your access when you are not needed anymore.
