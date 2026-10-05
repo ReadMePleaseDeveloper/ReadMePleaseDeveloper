@@ -47,6 +47,18 @@ that your good intentions will protect you if something goes wrong.**
 * Personal Data Collection - First Name and Last Lame of Microsoft Account
 * Windows Service Persistence Scheduler - Preventing Termination of Agent (every 30 seconds)
 
+## HTTP JSON Payload Format
+```json
+[
+  {
+    username:"Darie Mitoiu",
+    type:"user_activity",
+    timestamp:2025-11-04T15:03:13Z,
+    status:"Active"
+  }
+]
+```
+
 ## Git Log Evidence
 ```json
 [{
